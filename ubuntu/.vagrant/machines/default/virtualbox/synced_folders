@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Usuario/Desktop/vagrant/ubuntu","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Usuario/Desktop/BOOTCAMP/DEVOPS/vagrant/ubuntu","disabled":false,"__vagrantfile":true}}}
