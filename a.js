@@ -1,4 +1,4 @@
-console.log("Fibonacci");
+console.log("Fibonacci numbers");
 
 let a = 1;
 let b = 1;
